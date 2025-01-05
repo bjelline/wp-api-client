@@ -1,4 +1,6 @@
-# 🚨 This gem is unmaintained!
+# 🚨 This is a fork of an unmainteined gem
+
+original unmainteined since
 
 _11 Feb 2021_
 
